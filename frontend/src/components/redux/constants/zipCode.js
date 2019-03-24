@@ -1,0 +1,3 @@
+export const GET_ALL_ZIP_CODE = 'GET_ALL_ZIP_CODE'
+
+export const GET_ZIP_CODE_BY_QUERY = 'GET_ZIP_CODE_BY_QUERY'
